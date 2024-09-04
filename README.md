@@ -1,3 +1,3 @@
 # jobportal 
 job portal app <br>
-author -Avinash
+author -Avinash chauhan
